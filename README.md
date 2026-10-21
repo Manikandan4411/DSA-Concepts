@@ -202,3 +202,11 @@ LeetCode and coding-practice problems are maintained separately in the **DSA Lee
 ## 👨‍💻 Language
 
 All implementations in this repository are primarily written in **Java**.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Manikandan S
